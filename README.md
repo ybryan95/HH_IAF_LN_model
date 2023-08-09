@@ -18,7 +18,7 @@ This repository contains MATLAB scripts for simulating the Hodgkin-Huxley model 
 
 To run the simulation, open either `q1p1.m` or `q1p1_reduced.m` in MATLAB and run the script. The script will generate a series of plots showing the evolution of the membrane potential, the conductance of the sodium and potassium channels, the evolution of the gating variables, and the current evolution.
 
-To run the reciprocal_inhibition simulation, open q2.m in MATLAB and run the script. The script will generate a series of plots showing the neuronal firing in response to the input current, the change in membrane potential over time, and the change in the threshold potential over time.
+To run the reciprocal_inhibition simulation, open 'q2.m' in MATLAB and run the script. The script will generate a series of plots showing the neuronal firing in response to the input current, the change in membrane potential over time, and the change in the threshold potential over time.
 
 ## Parameters
 
